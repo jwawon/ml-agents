@@ -26,6 +26,7 @@ TagManager:
   - pyramid
   - switchOn
   - stone
+  - Dead
   layers:
   - Default
   - TransparentFX
